@@ -27,12 +27,23 @@ With 40 years spanning academia, engineering, and clinical research, I sit at th
 
 ---
 
-## Current Role
+## Current Work at CIRC NUS *(Jan 2025 – Present)*
 
 **Lead, Quantitative Imaging & Data-Driven Modelling**
-Clinical Imaging Research Centre (CIRC), National University of Singapore · *Jan 2025 – Present*
+Clinical Imaging Research Centre (CIRC), National University of Singapore
 
-Building the next generation of population-based brain imaging models and AI-driven clinical decision support tools for NUS Medicine.
+Over the past year, our team has built three research-grade, clinically oriented AI platforms that extract rigorous quantitative meaning from medical images. These are not prototypes — they are tools built to serve real scientific questions and real patients.
+
+### 🔬 FUSION — Framework for Unified Spatial Integration of ONcologic Imaging
+A multimodal, multiparametric platform integrating **PET/CT and PET/MR** for quantitative oncologic analysis. One framework. Multiple tracers. Reproducible at scale. Designed for normalised, spatially registered analysis of tumour metabolism and perfusion across imaging modalities.
+
+### 🧬 COMPAS — COMPosition & Phenotype Analysis System
+From scan to phenotype — automatically. COMPAS quantifies **abdominal, pelvic, thigh, and calf compartments**: fat depots, skeletal muscle, inter- and intra-muscular fat, and muscle quality metrics. Built for longitudinal metabolic and cancer studies. Extends the Sarcopenia AI work into a fully automated, multi-site phenotyping pipeline.
+
+### 🧠 NEXUS — Neuro-Cardiac EXplorer for Dynamic Scanning
+A kinetic modelling platform that moves beyond static imaging. NEXUS generates **time-activity curves (TAC), Patlak and Logan graphical analyses**, and parametric maps — applicable to any organ under dynamic PET acquisition. Integrated with [NEURODESK](https://www.neurodesk.org/) (Queensland Brain Institute, developed by Steffen Bollmann and team) for neuroimaging data analysis.
+
+> Better quantification leads to better decisions. That is what this work is about.
 
 ---
 
@@ -51,7 +62,7 @@ Building the next generation of population-based brain imaging models and AI-dri
 
 ---
 
-## Flagship Projects
+## Flagship Projects *(A\*STAR · 2003–2024)*
 
 ### 🧠 Stroke Clinical Decision Support System (CAD)
 Designed and deployed an end-to-end stroke CAD system covering **ischemic, hemorrhagic, and probabilistic stroke** assessment for emergency room use. Deployed across Singapore health clusters. *Asian Innovation Award finalist · RSNA Certificate of Merits.*
@@ -90,7 +101,7 @@ A clinical AI system that is not integrated into how clinicians actually work do
 |---|---|
 | 🏆 Patents Granted | **15** (5 licensed to industry) |
 | 📄 Peer-Reviewed Publications | **56 journals · 100+ conferences** |
-| 🎓 Students Mentored | **200+** (BSc to PhD level) |
+| 🎓 Students Mentored | **200+** (BE to PhD level) |
 | 💰 Grants Secured | **~S$1 million** |
 | 🌍 Countries of Work | India · Singapore · Poland · France · USA |
 | 🏅 Awards | DAAD Fellow · RSNA Certificate of Merits · Asian Innovation Award Finalist |
