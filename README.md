@@ -89,7 +89,7 @@ A clinical AI system that is not integrated into how clinicians actually work do
 | | |
 |---|---|
 | 🏆 Patents Granted | **15** (5 licensed to industry) |
-| 📄 Peer-Reviewed Publications | **45 journals · 85+ conferences** |
+| 📄 Peer-Reviewed Publications | **56 journals · 100+ conferences** |
 | 🎓 Students Mentored | **200+** (BSc to PhD level) |
 | 💰 Grants Secured | **~S$1 million** |
 | 🌍 Countries of Work | India · Singapore · Poland · France · USA |
