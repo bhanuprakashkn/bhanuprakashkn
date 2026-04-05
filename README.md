@@ -5,6 +5,7 @@
 **Clinical AI Engineer · Medical Imaging · Data Science · Deployable ML Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhanu-prakash-kn-b6b9314/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bhanuprakashkn.github.io-2a9d8f?style=flat&logo=github)](https://bhanuprakashkn.github.io)
 [![Email](https://img.shields.io/badge/Email-bhanuprakash.kn%40gmail.com-D14836?style=flat&logo=gmail)](mailto:bhanuprakash.kn@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Singapore-red?style=flat)](https://www.linkedin.com/in/bhanu-prakash-kn-b6b9314/)
 
@@ -72,12 +73,23 @@ Developed novel anatomical landmarks for improved brain atlas registration accur
 
 ---
 
+## Clinical System Design Documentation
+
+A clinical AI system that is not integrated into how clinicians actually work does not get used. For each deployed project, the clinical decision logic, data flow architecture, and output routing are documented here — grounded in patent specifications, published methodology, and clinical deployment configurations.
+
+| Document | Description | Link |
+|---|---|---|
+| 🔀 **Clinical Decision Pathways & System Flows** | The decision logic and data flow architecture embedded in three deployed systems — Stroke CAD, Brain Atlas, and Sarcopenia AI — drawn from patent and publication specifications | [View →](https://bhanuprakashkn.github.io/user-flows.html) |
+| 📁 **Full Project Portfolio** | Detailed project cards, skills matrix, patents, and publications | [View →](https://github.com/bhanuprakashkn/portfolio) |
+
+---
+
 ## By the Numbers
 
 | | |
 |---|---|
 | 🏆 Patents Granted | **15** (5 licensed to industry) |
-| 📄 Peer-Reviewed Publications | **56 journals · 100+ conferences** |
+| 📄 Peer-Reviewed Publications | **45 journals · 85+ conferences** |
 | 🎓 Students Mentored | **200+** (BSc to PhD level) |
 | 💰 Grants Secured | **~S$1 million** |
 | 🌍 Countries of Work | India · Singapore · Poland · France · USA |
@@ -122,6 +134,7 @@ Developed novel anatomical landmarks for improved brain atlas registration accur
 *Open to collaboration on clinical AI, medical imaging, and data-driven health systems.*
 **Singapore Permanent Resident · 2 months notice**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio_Website-bhanuprakashkn.github.io-2a9d8f?style=for-the-badge&logo=github)](https://bhanuprakashkn.github.io)
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhanu-prakash-kn-b6b9314/)
 
 </div>
